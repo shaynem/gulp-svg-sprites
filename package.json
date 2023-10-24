@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "gulp-util": "3.0.7",
-    "lodash": "4.14.1",
+    "lodash": "4.17.21",
     "q": "1.4.1",
     "svg-sprite-data": "3.0.0",
     "svgo": "0.6.6",
